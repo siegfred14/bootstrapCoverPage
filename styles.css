@@ -52,3 +52,16 @@ button a {
   /*  height: 400px; */
   width: 100%;
 }
+
+#creative {
+  height: 100vh;
+}
+
+#img2 {
+  width: 100%;
+  margin-top: 10%;
+}
+
+#button2 {
+  margin-top: 35px;
+}
