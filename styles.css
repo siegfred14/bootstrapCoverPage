@@ -48,31 +48,34 @@ button a {
   color: white;
 }
 
+.button1 {
+  margin-top: 35px;
+}
+
 #img1 {
   /*  height: 400px; */
   width: 100%;
 }
 
 #creative {
-  height: 100vh;
+  text-align: right;
 }
 
 #img2 {
   width: 100%;
-  margin-top: 10%;
+  margin-top: 7%;
 }
 
-#button2 {
-  margin-top: 35px;
+.contacts {
+  margin-top: 15%;
 }
-
 .contacts a {
   margin: 1%;
   padding: 2px 4px;
   text-decoration: none;
   color: rgb(20, 194, 194);
   transition: 0.5s;
-  font-size: 20px;
+  font-size: 130%;
 }
 
 .contacts a:hover {
