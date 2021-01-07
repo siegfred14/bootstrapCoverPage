@@ -65,3 +65,10 @@ button a {
 #button2 {
   margin-top: 35px;
 }
+
+.footer {
+  width: 80%;
+  margin-left: 10%;
+  padding-top: 2%;
+  border-top: 2px solid turquoise;
+}
